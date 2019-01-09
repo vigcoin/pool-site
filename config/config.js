@@ -1,4 +1,4 @@
-var DOMAIN = "localhost";
+var DOMAIN = "vig-pool.tyk.im";
 var email = "calidion@gmail.com";
 
 
