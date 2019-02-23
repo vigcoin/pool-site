@@ -1,12 +1,15 @@
-var api = "http://vig-pool.tyk.im:8119";
+var DOMAIN = "pool.vigcoin.org";
+var email = "calidion@gmail.com";
 
-var api_blockexplorer = "http://explorer.vigcoin.org";
 
-var poolHost = "pool.vigcoin.org";
+var api = "http://" + DOMAIN + ":8119";
+
+var api_blockexplorer = "http://" + DOMAIN + ":19810";
+
+var poolHost = DOMAIN;
 
 var irc = "irc.freenode.net/#vig";
 
-var email = "calidion@gmail.com";
 
 var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
 
