@@ -1,8 +1,8 @@
 var api = "http://vig-pool.tyk.im:8119";
 
-var api_blockexplorer = "http://vig-pool.tyk.im:19810";
+var api_blockexplorer = "http://explorer.vigcoin.org";
 
-var poolHost = "vig-pool.tyk.im";
+var poolHost = "pool.vigcoin.org";
 
 var irc = "irc.freenode.net/#vig";
 
@@ -20,7 +20,7 @@ var themeCss = "themes/default-theme.css";
 
 var networkStat = {
     "vig": [
-        ["vig.tyk.im", "http://vig-pool.tyk.im:8119"],
+        ["pool.vigcoin.org", "http://pool.vigcoin.org:8119"],
         ["pool.vigcoin.org", "pool.vigcoin.org:8119"],
     ],
     "bcn": [
