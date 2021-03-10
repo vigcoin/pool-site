@@ -2,7 +2,7 @@ var DOMAIN = "pool.vigcoin.org";
 var email = "calidion@gmail.com";
 
 
-var api = "http://" + DOMAIN + ":8119";
+var api = "http://" + DOMAIN;
 
 var api_blockexplorer = "http://" + DOMAIN + ":19810";
 
